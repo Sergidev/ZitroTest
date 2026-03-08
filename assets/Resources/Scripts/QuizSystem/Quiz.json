@@ -1,0 +1,174 @@
+{
+  "questions": [
+    {
+      "question": "Which Pokémon is known as the 'Electric Mouse' and is the mascot of the franchise?",
+      "answers": [
+        {
+          "text": "Raichu",
+          "isCorrect": false
+        },
+        {
+          "text": "Pikachu",
+          "isCorrect": true
+        },
+        {
+          "text": "Plusle",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "What is the evolution of Magikarp that turns it into a powerful flying/water Pokémon?",
+      "answers": [
+        {
+          "text": "Gyarados",
+          "isCorrect": true
+        },
+        {
+          "text": "Milotic",
+          "isCorrect": false
+        },
+        {
+          "text": "Dragonite",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Which of these Pokémon was the first one ever designed by the creators?",
+      "answers": [
+        {
+          "text": "Bulbasaur",
+          "isCorrect": false
+        },
+        {
+          "text": "Mew",
+          "isCorrect": false
+        },
+        {
+          "text": "Rhydon",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "question": "What type of Pokémon is Gengar?",
+      "answers": [
+        {
+          "text": "Ghost / Poison",
+          "isCorrect": true
+        },
+        {
+          "text": "Ghost / Dark",
+          "isCorrect": false
+        },
+        {
+          "text": "Ghost",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "How many Eevee evolutions currently exist?",
+      "answers": [
+        {
+          "text": "7",
+          "isCorrect": false
+        },
+        {
+          "text": "8",
+          "isCorrect": true
+        },
+        {
+          "text": "9",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Which legendary Pokémon is said to have created the entire Pokémon world?",
+      "answers": [
+        {
+          "text": "Mewtwo",
+          "isCorrect": false
+        },
+        {
+          "text": "Rayquaza",
+          "isCorrect": false
+        },
+        {
+          "text": "Arceus",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "question": "Which item is used to evolve Eevee into Vaporeon?",
+      "answers": [
+        {
+          "text": "Water Stone",
+          "isCorrect": true
+        },
+        {
+          "text": "Sea Incense",
+          "isCorrect": false
+        },
+        {
+          "text": "King's Rock",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "In the original games, which town is famous for its spooky Pokémon Tower?",
+      "answers": [
+        {
+          "text": "Pallet Town",
+          "isCorrect": false
+        },
+        {
+          "text": "Lavender Town",
+          "isCorrect": true
+        },
+        {
+          "text": "Cerulean City",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "What is the only type that is completely immune to Electric-type attacks?",
+      "answers": [
+        {
+          "text": "Flying",
+          "isCorrect": false
+        },
+        {
+          "text": "Grass",
+          "isCorrect": false
+        },
+        {
+          "text": "Ground",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "question": "Which Pokémon is famous for sleeping and blocking paths in the Kanto region?",
+      "answers": [
+        {
+          "text": "Snorlax",
+          "isCorrect": true
+        },
+        {
+          "text": "Slaking",
+          "isCorrect": false
+        },
+        {
+          "text": "Slowbro",
+          "isCorrect": false
+        }
+      ]
+    }
+  ]
+}
