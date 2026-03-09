@@ -8,7 +8,7 @@ En esta escena un simple manager tiene referencias de dos botones para cambiar a
 
 #Quiz
 
-
+He implementado un quiz de Pokémon utilizando un archivo JSON, he implementado los controladores de las respuestas y las preguntas por separado, modularizándolo todo lo posible, para que sea fácil de implementar varios quizs diferentes o en otras escenas.
 
 #Slots
 
@@ -20,4 +20,4 @@ Finalmente, he añadido eventos para sincronizar la parada de los spins y valida
 
 #Extras
 
-He creado un AudioManager y un TransitionManager singletons persistentes entre escenas para poder transicionar de manera smooth entre escenas y reproducir sonidos en cualquiera de ellas. No era un requisito, pero me ha parecido interesante implementarlos.
+Para facilitar el desarrollo de esta prueba en concreato, he creado un manager en cada escena para la navegación e interacción de los botones y he implementado los requisitos y/o particularidades de cada feature por separado, favoreciendo la simplicidad, el bajo acoplamiento y escalabilidad del código. He creado un AudioManager y un TransitionManager singletons persistentes entre escenas para poder transicionar de manera smooth entre escenas y reproducir sonidos en cualquiera de ellas. No era un requisito, pero me ha parecido interesante implementarlos.
