@@ -21,3 +21,5 @@ Finalmente, he añadido eventos para sincronizar la parada de los spins y valida
 #Extras
 
 Para facilitar el desarrollo de esta prueba en concreato, he creado un manager en cada escena para la navegación e interacción de los botones y he implementado los requisitos y/o particularidades de cada feature por separado, favoreciendo la simplicidad, el bajo acoplamiento y escalabilidad del código. He creado un AudioManager y un TransitionManager singletons persistentes entre escenas para poder transicionar de manera smooth entre escenas y reproducir sonidos en cualquiera de ellas. No era un requisito, pero me ha parecido interesante implementarlos.
+
+He utilizado assets gráficos hechos con IA para simular una empresa "fake" llamada Nitro. No he usado nada de branding de Zitro por si había algún problema de uso de imagen sin permiso quee stuviese rpotegido por copyright.
